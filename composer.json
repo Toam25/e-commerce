@@ -1,0 +1,10 @@
+{
+    "name": "itras/e-commerce",
+    "authors": [
+        {
+            "name": "Rado Nirina",
+            "email": "rado.rakotoarimanana@dreamslab.fr"
+        }
+    ],
+    "require": {}
+}
